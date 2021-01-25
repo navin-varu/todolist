@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todolist/static/css/main.1987a930.chunk.css",
+    "main.css": "/todolist/static/css/main.e1a5dedb.chunk.css",
     "main.js": "/todolist/static/js/main.448bf269.chunk.js",
     "runtime-main.js": "/todolist/static/js/runtime-main.ea978955.js",
     "static/js/2.63036bed.chunk.js": "/todolist/static/js/2.63036bed.chunk.js",
@@ -11,7 +11,7 @@
   "entrypoints": [
     "static/js/runtime-main.ea978955.js",
     "static/js/2.63036bed.chunk.js",
-    "static/css/main.1987a930.chunk.css",
+    "static/css/main.e1a5dedb.chunk.css",
     "static/js/main.448bf269.chunk.js"
   ]
 }
